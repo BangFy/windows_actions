@@ -1,4 +1,4 @@
-name: RDP
+name: Remote Desktop Protocol Ni-ai-svg
 
 on:
   workflow_dispatch:
